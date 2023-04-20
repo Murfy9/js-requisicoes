@@ -1,18 +1,28 @@
-<p align="center"> <img src="https://imgur.com/J3hD21O.png" alt="Javascript: criando requisições"> </p>
 
-<hr>
+<h1 align="center">
+📚 Javascript requisições<br/>
+Curso na Alura - Javascript: criando requisições
+</h1>
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</p>
+<div align="center">
 
-## Tecnologias utilizadas durante o curso
-* Javascript
-* NodeJS
-* Json-server
+## 🔨 Tecnologias utilizadas durante o curso
 
-## Tecnologias utilizadas no projeto
-* HTML
-* CSS
+ 📚 Javascript
+ 
+ 📚 NodeJS
+ 
+ 📚 Json-server
+
+
+## ✔️ Tecnologias utilizadas no projeto
+
+ 📚 HTML
+ 
+ 📚 CSS
+
+
+</div>
 
 ## Screenshots
 ![Screenshot da tela inicial do AluraPlay](https://imgur.com/aymxEsh.png)
